@@ -1,3 +1,5 @@
+// 本脚本来自tampermonkey，作用为导出网易云音乐歌单，原脚本导出的歌单格式为歌曲名-歌手，我给调成了歌手-歌曲名-专辑名
+
 // ==UserScript==
 // @name         导出网易云音乐歌单
 // @namespace    http://tampermonkey.net/
